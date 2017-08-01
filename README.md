@@ -1,6 +1,7 @@
 WTC
 ===
-3d-print WTC for RC submarine
+3d-print WTC for RC submarine.
+Инструкций постройки РУ [модели подводной лодки](http://imelnikov.ru/model/submarine/3d-print-wtc).
 
 Чтобы просмотреть детали просто откройте их в браузере.
 
