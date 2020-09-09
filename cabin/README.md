@@ -1,0 +1,1 @@
+<script src="https://embed.github.com/view/3d/melnikov-ivan/WTC/blob/master/pipe/pipe-1.stl"></script>
